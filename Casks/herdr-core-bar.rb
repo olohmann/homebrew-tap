@@ -1,6 +1,6 @@
 cask "herdr-core-bar" do
-  version "0.1.0"
-  sha256 "089899e0a5513ab160a67087f939df0bcddf7b7991b8d7758270ed60e928eae1"
+  version "0.1.1"
+  sha256 "2a49a0c10a658b0ff1b9b795bfaa2febc72917621566917bff54494980c07090"
 
   url "https://github.com/olohmann/herdr-core-bar/releases/download/v#{version}/HerdrCoreBar-#{version}.dmg"
   name "Herdr Core Bar"
